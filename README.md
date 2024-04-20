@@ -29,4 +29,9 @@ Puedes encontrarme en mi correo electrónico a juandote@gmail.com.
 ### ⚡ Dato curioso:
 Cuando no estoy enseñando o investigando, puedes encontrarme explorando nuevos senderos en mi bicicleta de montaña. ¡La naturaleza es mi mayor inspiración!
 
+### Herramientas en las que me destaco:
+![Python](https://img.shields.io/badge/Lenguajes-Python-DataScience)![Javascript](https://img.shields.io/badge/Lenguajes-Javascript-yellow)
+![SQL](https://img.shields.io/badge/Framework-React-blue)
+![Jira](https://img.shields.io/badge/Agile-Jira-green)
+
 # ¡Gracias por visitar mi perfil!
