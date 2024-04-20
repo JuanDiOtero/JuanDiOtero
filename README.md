@@ -15,7 +15,9 @@ Proyectos relacionados con la educación ambiental, la conservación de la biodi
 
 💬 Pregúntame sobre:
 Educación ambiental y estrategias de enseñanza.
+Vocaciones cientificas.
 Métodos de conservación de la biodiversidad.
+Seguridad y soberania alimentaria.
 Análisis de datos en ciencias ambientales y educación.
 
 📫 Cómo contactarme:
