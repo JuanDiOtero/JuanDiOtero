@@ -31,7 +31,7 @@ Cuando no estoy enseñando o investigando, puedes encontrarme explorando nuevos 
 
 ### Herramientas en las que me destaco:
 ![Python](https://img.shields.io/badge/Lenguajes-Python-DataScience)![SQL](https://img.shields.io/badge/Lenguajes-SQL-yellow)
-![SQL](https://img.shields.io/badge/Framework-React-blue)
-![Jira](https://img.shields.io/badge/Agile-Jira-green)
+![SQL](https://img.shields.io/badge/Prueba1-React-blue)
+![Jira](https://img.shields.io/badge/Prueba2-Jira-green)
 
 # ¡Gracias por visitar mi perfil!
